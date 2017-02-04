@@ -1,6 +1,6 @@
 <?php
 /**
-@Auther :Bikash Ranjan Nayak
+@Author :Bikash Ranjan Nayak
 @Create Date : 2/4/2017
 @Purpose : Listing will provide operations that will set and retrieve the.prices for product listed, as well as checking if the product is avaliable in the inventory
 */

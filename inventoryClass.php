@@ -1,6 +1,6 @@
 <?php
 /**
-@Auther :Bikash Ranjan Nayak
+@Author :Bikash Ranjan Nayak
 @Create Date : 2/4/2017
 @Purpose : Inventory manages products, including adding and removing products.
 */

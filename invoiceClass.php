@@ -1,6 +1,6 @@
 <?php
 /**
-@Auther :Bikash Ranjan Nayak
+@Author :Bikash Ranjan Nayak
 @Create Date : 2/4/2017
 @Purpose : An invoice system that tracks products and calculates the total.cost of all them based on a product listing.
 */

@@ -1,6 +1,6 @@
 <?php
 /**
-@Auther :Bikash Ranjan Nayak
+@Author :Bikash Ranjan Nayak
 @Create Date : 2/4/2017
 @Purpose : The point of scanner terminal. Scan products and get the total cost.
 */
